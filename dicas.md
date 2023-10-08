@@ -49,7 +49,7 @@ Bem-vindo(a) ao mundo dos computadores! Aqui estão algumas dicas para ajudar vo
 
 ## 8. **WPS Office** 📄:
 
-- É uma suíte de escritório que oferece ferramentas semelhantes ao Microsoft Office, como processador de texto, planilhas e apresentações.
+- É uma suíte de escritório que oferece ferramentas semelhantes ao Microsoft Office, como processador de texto, planilhas e apresentações. Já está instalado.
 - **Exemplo de Prompt pro ChatGPT**: "Comparação entre WPS Office e Microsoft Office."
 
 ## 9. **Aplicativos Básicos** 💻:
