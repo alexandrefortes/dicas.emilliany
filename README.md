@@ -1,5 +1,8 @@
 # 🖥️ Dicas para Iniciantes no Universo dos PCs
 
+Senha: 1234 - alterar
+Perguntas secretas: sua cidade
+
 Bem-vindo(a) ao mundo dos computadores! Aqui estão algumas dicas para ajudar você a se virar e aproveitar ao máximo seu PC.
 
 ## 1. **Redes Sociais** 📱:
