@@ -1,4 +1,4 @@
-# 🖥️ Dicas para Iniciantes no Universo dos PCs
+# 🖥️ Dicas para Emilliany no Universo dos PCs
 
 Senha: 1234 - alterar
 Perguntas secretas: sua cidade
